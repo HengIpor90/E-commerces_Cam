@@ -97,7 +97,7 @@ class HomePage extends StatelessWidget {
 
       body: const Center(
         child: Text(
-          'Welcome to E-Commerce App',
+          'Welcome to My Shop',
           style: TextStyle(fontSize: 22),
         ),
       ),
